@@ -1,0 +1,20 @@
+Methods - Build in functions
+"Karol".toLowerCase();
+
+Function declaration syntax:
+
+function sum(num1, num2) {  // num1 num2 are PARAMETERS
+    if(num === undefined) {
+    return num1 + num1;
+    }
+    return 2 + 2;
+}
+
+console.log(sum(2,6));
+
+
+if we dont provide one parameter then num2 will be undefined and result NaN
+
+Functions provide reusable code
+
+

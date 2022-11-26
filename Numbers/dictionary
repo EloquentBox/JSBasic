@@ -1,0 +1,12 @@
+Number with a decimal point is a
+float which references the floating point
+
+Number(MyString); - change string type to number by Number function
+
+//Methods
+
+.isInteger() - determines whether passed value is an integer
+.parseFloat() - parses an argument and return floating point number
+.toFixed(2) - formats a number according to how many decimal points you provide as the parameter. Return string data
+.parseInt() - parses a string argument and returns an integer. Rounds number to full as well
+.toString() - returns a string representing the number

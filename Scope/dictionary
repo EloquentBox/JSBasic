@@ -1,0 +1,28 @@
+var x = 1;
+var x = 2;            Var does NOT provide error when you overwrite it
+const y = 3;          constant value
+
+//global scope
+
+var x = 4;
+let y = 5;
+const z = 6;    At this point all of them are GLOBAL now
+
+// local scope - variable are not available in global scope
+
+{
+    let y = 7;
+}  - BLOCK scope
+
+function myFunc() = {
+    const z = 8;
+}   - function scope
+
+When we call function inside global scope then it will revive variables inside function scope
+
+If inside the function theres block scope then function will use global scope
+
+var instances function() scoped variables
+let and const instantiate {block} scoped variables
+
+AVOID using var

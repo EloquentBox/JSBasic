@@ -1,0 +1,14 @@
+. - method
+
+// Methods
+
+.charAt(0) - return a character at position we provide
+.indexOf("at") - provide first position with first occurance we provide
+.lastIndexOf("at") - provide a last position with occurance we provide
+.slice(5, 8) - return characters from positions (here between 5 and 8)
+.slice(5) - return characters from fifth till end
+.toUpperCase() - makes all letters capital
+.toLowerCase() - all letters are lowercase
+.includes("div") - return boolean data. If they are in string then return true
+.split("e") - splits the string wherever we provide the separator
+.split("")  - with empty quote it creates array with every letter inside separately

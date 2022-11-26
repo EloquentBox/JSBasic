@@ -1,0 +1,8 @@
+myNumber = myNumber +1 its the same as myNumber++
+myNumber += 2 rise the number +2
+
+do while is going to execute code inside at least once
+
+continue in loop - in our example we used that in while loop where first if statement has it.
+                    when if statement work and it add +2 to our second letter then it will print forth letter
+                    and jump back to beginning without checking second if

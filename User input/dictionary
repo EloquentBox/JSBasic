@@ -1,0 +1,4 @@
+?? - when theres no value which means false then use
+       this Koleskin operator: if its null then send that what is after ?? to console
+.trim() - removes spaces from input
+

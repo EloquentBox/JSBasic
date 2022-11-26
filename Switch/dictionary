@@ -1,0 +1,15 @@
+switch (expression OR value) {
+    case choice1:
+        // run this code
+    break;
+
+    case choice 2:
+        //run this different code
+    break;
+
+    // add as many choices as you need
+
+    default:
+        // run this code if no case matches
+    //no need break here
+}

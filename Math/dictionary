@@ -1,0 +1,9 @@
+Math.trunc() - removes all decimals from number
+Math.round() - return value to closer integer
+Math.ceil() - round value up
+Math.ceil() - round value down
+Math.pow(x, y) - (base, exponent) - to the power of
+Math.min(2, 4, 6) - return the lowest number
+Math.random() - gives random number between 0 and 1 but never 1
+console.log(Math.floor(Math.random() * 10) + 1); - random number 1 - 10
+
